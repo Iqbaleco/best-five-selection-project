@@ -1,0 +1,45 @@
+.workout {
+    height: 570px;
+    width: 300px;
+    border: 1px solid darkgray;
+    border-radius: 8px;
+    position: relative;
+}
+
+.workout img {
+    width: 286px;
+    height: 286px;
+    border-radius: 8px;
+    margin: 7px;
+}
+
+.workout-info {
+    margin: 0 10px;
+    margin-top: 5px;
+}
+
+.workout-info p {
+    margin: 0;
+}
+
+.product-name {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 25px;
+    margin-top: 7px;
+}
+
+.btn-cart {
+    width: 100%;
+    border: none;
+    background-color: cadetblue;
+    border-radius: 0px 0px 8px 8px;
+    position: absolute;
+    bottom: 0;
+}
+
+.btn-cart:hover {
+    background-color: aqua;
+}
