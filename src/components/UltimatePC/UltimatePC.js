@@ -1,20 +1,21 @@
 import React, { useEffect, useState } from 'react';
 import Workout from '../Workout/Workout';
 import './UltimatePC.css'
+import SideInfo from '../SideInfo/SideInfo';
 
 const UltimatePC = () => {
     const [workouts, setWorkout] = useState([]);
-    const [workoutTime, setWorkoutTime] = useState();
+    const [sideInfo, setsideInfo] = useState([]);
     useEffect(() => {
         fetch('workout-details.json')
             .then(res => res.json())
             .then(data => setWorkout(data));
     }, []);
 
-    const handleAddToList = (timeRequired) => {
-        console.log(timeRequired);
-        const newWorkoutTime = [workoutTime, timeRequired];
-        setWorkoutTime(newWorkoutTime);
+    const handleAddToList = (workout) => {
+        console.log(workout);
+        const newsideInfo = [sideInfo, workout];
+        setsideInfo(newsideInfo);
 
     }
 
@@ -30,8 +31,7 @@ const UltimatePC = () => {
                 }
             </div>
             <div className="exercise-details">
-                <h3>Exercise Details</h3>
-                <h5>Exercise time: {workoutTime}</h5>
+                <SideInfo sideInfo={sideInfo}></SideInfo>
             </div>
         </div>
     );
