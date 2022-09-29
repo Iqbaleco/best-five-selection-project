@@ -4,7 +4,7 @@
     "name": "Booty Camp",
     "description": "This is probably one of the most popular workout names out there, but it's also one of the most eye-roll-inducing. First of all, it's extremely clichéd.",
     "ageRange": "25-30",
-    "timeRequired": "20s",
+    "timeRequired": 20,
     "perDay": "10 times",
     "img": "https://images.unsplash.com/photo-1528720208104-3d9bd03cc9d4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
   },
@@ -13,7 +13,7 @@
     "name": "Power Hour",
     "description": "This workout name sounds more like a math class than a fitness class. It's not very creative or inspiring, and it doesn't give people any indication of what the workout will entail.",
     "ageRange": "20-25",
-    "timeRequired": "30s",
+    "timeRequired": 30,
     "perDay": "15 times",
     "img": "https://images.unsplash.com/photo-1549060279-7e168fcee0c2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
   },
@@ -22,7 +22,7 @@
     "name": "Fat Burner",
     "description": "Again, this is another workout name that sounds more like something you'd find on a weight loss program than in a fitness class.",
     "ageRange": "18-25",
-    "timeRequired": "25s",
+    "timeRequired": 25,
     "perDay": "12 times",
     "img": "https://images.unsplash.com/photo-1576678927484-cc907957088c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
   },
@@ -31,7 +31,7 @@
     "name": "Ab Attack",
     "description": "We get it, you want people to work on their abs. But there are much better ways to say it than this! “Core workout” or “ab workout” are both much better options.",
     "ageRange": "24-28",
-    "timeRequired": "25s",
+    "timeRequired": 25,
     "perDay": "40 times",
     "img": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
   },
@@ -40,7 +40,7 @@
     "name": "Sweat & Sculpt",
     "description": "This workout name is just too long and convoluted. It's not easy to remember, and it doesn't give people clear workout ideas of what the class will be about.",
     "ageRange": "18-22",
-    "timeRequired": "22s",
+    "timeRequired": 22,
     "perDay": "18 times",
     "img": "https://images.unsplash.com/photo-1500468756762-a401b6f17b46?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80"
   },
@@ -49,7 +49,7 @@
     "name": "Tone & Trim",
     "description": "See above! This is another workout name that's just way too long and complicated. Stick to something simpler and easier to remember.",
     "ageRange": "20-22",
-    "timeRequired": "45s",
+    "timeRequired": 45,
     "perDay": "20 times",
     "img": "https://images.unsplash.com/photo-1604480133435-25b86862d276?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
   },
@@ -58,7 +58,7 @@
     "name": "Fat-burning Furnace",
     "description": "This workout name is just downright silly. It's not creative, it's not motivating, and it doesn't give people any information about what the workout will entail.",
     "ageRange": "15-20",
-    "timeRequired": "40s",
+    "timeRequired": 40,
     "perDay": "10 times",
     "img": "https://images.unsplash.com/photo-1517344884509-a0c97ec11bcc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
   },
@@ -67,7 +67,7 @@
     "name": "Metabolism Booster",
     "description": "Again, this workout name sounds more like something you'd find in a weight loss program than in a fitness class. It's not very inspiring, and it could make people feel self-conscious.",
     "ageRange": "25-30",
-    "timeRequired": "35s",
+    "timeRequired": 35,
     "perDay": "15 times",
     "img": "https://images.unsplash.com/photo-1596357395217-80de13130e92?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80"
   },
@@ -76,7 +76,7 @@
     "name": "Body Sculpting",
     "description": "This is another popular workout name, but it's also extremely clichéd. And like “booty camp,” it implies that the only reason people would want to work out is to improve the appearance of their entire body.",
     "ageRange": "20-24",
-    "timeRequired": "45s",
+    "timeRequired": 45,
     "perDay": "20 times",
     "img": "https://images.unsplash.com/photo-1602520628350-fbf9db1f02ae?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
   }
