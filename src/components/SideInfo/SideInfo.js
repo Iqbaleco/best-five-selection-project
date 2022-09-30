@@ -28,7 +28,7 @@ const SideInfo = (props) => {
             </div>
             <h2>Exercise Details</h2>
             <h5>Exercise time: {exerciseTime}</h5>
-            <h5>Break Time:</h5>
+            <h5>Break Time: 25 S</h5>
             <button className='btn-activity'>Activity Completed</button>
 
 
