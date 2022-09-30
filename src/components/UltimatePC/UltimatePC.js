@@ -31,6 +31,7 @@ const UltimatePC = () => {
             </div>
             <div className="exercise-details">
                 <SideInfo sideInfo={sideInfo}></SideInfo>
+
             </div>
         </div>
     );
