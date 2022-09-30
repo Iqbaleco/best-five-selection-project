@@ -6,7 +6,7 @@ const SideInfo = (props) => {
     console.log(sideInfo);
 
     let exerciseTime = 0;
-    for (const item of sideInfo) {
+    for (let item of sideInfo) {
         exerciseTime = (exerciseTime + item.timeRequired);
     }
 

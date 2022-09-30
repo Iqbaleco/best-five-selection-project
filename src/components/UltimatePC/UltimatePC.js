@@ -13,7 +13,6 @@ const UltimatePC = () => {
     }, []);
 
     const handleAddToList = (workout) => {
-        console.log(workout);
         const newsideInfo = [sideInfo, workout];
         setsideInfo(newsideInfo);
 
