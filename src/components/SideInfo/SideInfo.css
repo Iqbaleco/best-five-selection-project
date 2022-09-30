@@ -16,3 +16,14 @@
 .btn-break button {
     border-color: none;
 }
+
+.btn-activity {
+    width: 100%;
+    background-color: cadetblue;
+    font-size: large;
+    border: 0;
+}
+
+.btn-activity:hover {
+    background-color: rgb(6, 185, 191);
+}
