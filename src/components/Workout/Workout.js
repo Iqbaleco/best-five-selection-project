@@ -5,6 +5,7 @@ const Workout = (props) => {
     const { img, name, description, ageRange, timeRequired, perDay } = workout;
     return (
         <div className='workout'>
+
             <img src={img} alt="" />
             <div className='workout-info'>
                 <p className='product-name'>{name}</p>

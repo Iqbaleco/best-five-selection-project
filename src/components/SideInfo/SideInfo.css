@@ -3,3 +3,16 @@
     top: 0;
     padding: 30px 20px;
 }
+
+.btn-break button:hover {
+    background-color: chocolate;
+    border-radius: 2px;
+    border-color: none;
+    border-color: none;
+}
+
+
+
+.btn-break button {
+    border-color: none;
+}
